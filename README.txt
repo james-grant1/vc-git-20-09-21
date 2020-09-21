@@ -3,3 +3,5 @@
 ## Email: rjg20@bath.ac.uk
 
 This repository contains details of my thesis.
+
+Begins with a summary or my work in the last 4 years
