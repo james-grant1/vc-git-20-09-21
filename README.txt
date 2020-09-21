@@ -11,3 +11,5 @@ Then follows an introduction and literature review.
 Results come after that
 
 Finally end with some conclusions and thoght some future work.
+
+We can also add a Bibliography section.
