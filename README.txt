@@ -13,3 +13,5 @@ Results come after that
 Finally end with some conclusions and thoght some future work.
 
 We can also add a Bibliography section.
+
+Added statement on conflict of interests.
